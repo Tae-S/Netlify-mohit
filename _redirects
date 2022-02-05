@@ -1,1 +1,6 @@
-/ https://www.mohit-chhikara.web.app
+# Redirects from what the browser requests to what we serve
+/home              https://www.mohit-chhikara.web.app 
+/                  https://www.mohit-chhikara.web.app
+/news              https://www.mohit-chhikara.web.app
+
+
