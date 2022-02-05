@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
-/home              https://www.mohit-chhikara.web.app 
-/                  https://www.mohit-chhikara.web.app
-/news              https://www.mohit-chhikara.web.app
+/home              https://mohit-chhikara.web.app/ 
+/                  https://mohit-chhikara.web.app/
+/news              https://mohit-chhikara.web.app/
 
 
