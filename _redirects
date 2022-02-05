@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
-https://mohit-chhikara.netlify.app/            https://mohit-chhikara.web.app/ 
-/                  https://mohit-chhikara.web.app/
-/news              https://mohit-chhikara.web.app/
+https://mohit-chhikara.netlify.app/            https://mohit-chhikara.web.app/ 301! 
+/                  https://mohit-chhikara.web.app/ 301! 
+/news              https://mohit-chhikara.web.app/ 301!
 
 
